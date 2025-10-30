@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "217461411925",
+    "project_id": "innersamvad",
+    "storage_bucket": "innersamvad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217461411925:android:08dd04cb29c8ca99c3c4dc",
+        "android_client_info": {
+          "package_name": "com.example.inner_samvad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217461411925-ph7dgagat3iqhhuhe53hjgl0udi3cn6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inner_samvad",
+            "certificate_hash": "c43f6a6403805f7e87c33372ea857d75c661b4ab"
+          }
+        },
+        {
+          "client_id": "217461411925-mj76f6b7r6v4aeaam8tkdc0gft5qel66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC21HDqV2YViAc34KF-qUvMb9sMiOxizpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217461411925-mj76f6b7r6v4aeaam8tkdc0gft5qel66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217461411925-8ecn6kp705t4tfm6dsbs0klahmvgkgbr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.innerSamvad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
